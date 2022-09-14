@@ -4,21 +4,18 @@
   "description": "Birthday greetings..",
   "main": " ",
   "scripts": {
+     "test": "echo \"Error: no test specified\" && exit 1",
     "server-node": "http-server -p 8081"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "url": "https://github.com/aisyahenha/habede.git"
   },
   "keywords": [
     "Birthday"
   ],
   "author": "Ayush Sharma",
-  "license": "WTFPL",
-  "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
-  },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "license": "ISC",
   "dependencies": {
     "http-server": "^0.11.1"
   }
